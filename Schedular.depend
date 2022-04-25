@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621102106 source:c:\users\ahmad nouh\desktop\college\term 4\datastructure\assignment 2\work\mywork\schedular\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
